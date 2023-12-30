@@ -2,7 +2,7 @@
   "plugins": ["@salesforce/eslint-plugin-aura"],
   "extends": ["plugin:@salesforce/eslint-plugin-aura/recommended"],
   "rules": {
-    "vars-on-top": "off",
+    "vars-on-top": "on",
     "no-unused-expressions": "off"
   }
 }
